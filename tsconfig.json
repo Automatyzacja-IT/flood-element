@@ -1,0 +1,15 @@
+{
+  "include": [
+    "helpers",
+    "pages",
+    "tests",
+    "*.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmit": true,
+    "emitDeclarationOnly": false,
+    "module": "CommonJS",
+    "target": "ES2022"
+  }
+}
