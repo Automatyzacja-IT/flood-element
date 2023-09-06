@@ -1,2 +1,2 @@
 # flood-element
-Automatyzacja.IT - Flood Element Solution
+Projekt znajdujący się w tym repozytorium jest częścią artykułu "Testy wydajnościowe z poziomu przeglądarki cz.2" znajdującego się na testerskim blogu Automatyzacja.IT.
